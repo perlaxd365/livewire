@@ -1,6 +1,6 @@
 
 <h3>
-    Nuevo Post
+    Nuevo Publicacion
 </h3>
 <br>
 @include('livewire.form')
